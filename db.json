@@ -1,4 +1,4 @@
-[
+{ "products": [
   {
     "id": 1,
     "name": "Cat Butt Tissue Holder",
@@ -98,4 +98,4 @@
     "soldNr": 1000,
     "tags": ["books", "self-development", "real life problems"]
   }
-]
+]}
